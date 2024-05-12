@@ -82,7 +82,7 @@ vagrant@node1:~$
 
 Install nginx on node5 and test.
 ```bash
-ansible node5 -i ansible/inventory -m "shell" -a "sudo apt update && sudo apt install -y nginx"
+vagrant@node1:~$ ansible node5 -i ansible/inventory -m "shell" -a "sudo apt update && sudo apt install -y nginx"
 
 vagrant@node1:~$ curl -I node5
 HTTP/1.1 200 OK
