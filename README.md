@@ -8,7 +8,7 @@ Clone Project Repository
 
 
 ```bash
-$ git clone https://github.com/raeis-i/Full-Automated-Ansible-Lab-with-Vagrant-Virtualbox
+$ git clone git@github.com:raeis-i/Full-Automated-Ansible-Lab-with-Vagrant-Virtualbox.git
 
 $ cd Full-Automated-Ansible-Lab-with-Vagrant-Virtualbox
 
